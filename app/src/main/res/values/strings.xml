@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- App -->
+    <string name="app_name">Student Expense Tracker</string>
+    <string name="welcome">Student Expense Tracker</string>
+    <string name="slogan">Manage Your Money Wisely</string>
+
+    <!-- Login -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Sign in to manage your expenses</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">Do not have an account?</string>
+    <string name="register">Register</string>
+
+    <string name="create_account">Create Account</string>
+
+    <string name="register_subtitle">Create a new account to get started</string>
+
+    <string name="full_name">Full Name</string>
+
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="already_account">Already have an account?</string>
+
+    <string name="create">Create Account</string>
+
+    <string name="current_balance">Current Balance</string>
+
+    <string name="total_income">Total Income</string>
+
+    <string name="total_expense">Total Expenses</string>
+
+    <string name="recent_transactions">Recent Transactions</string>
+
+    <string name="add_transaction">Add Transaction</string>
+
+    <string name="welcome_back_dashboard">Welcome back</string>
+
+    <string name="no_transactions">No transactions yet</string>
+
+    <string name="currency">K</string>
+
+    <string name="income">Income</string>
+
+    <string name="expense">Expense</string>
+
+    <string name="amount">Amount</string>
+
+    <string name="category">Category</string>
+
+    <string name="description">Description</string>
+
+    <string name="save_transaction">Save Transaction</string>
+
+</resources>

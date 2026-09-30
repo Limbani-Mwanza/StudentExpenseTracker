@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#2E7D32</color>
+
+    <color name="primary_dark">#1B5E20</color>
+
+    <color name="primary_light">#A5D6A7</color>
+
+    <color name="accent">#FFC107</color>
+
+    <color name="background">#F5F5F5</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="text_primary">#212121</color>
+
+    <color name="text_secondary">#757575</color>
+
+    <color name="expense_red">#F44336</color>
+
+    <color name="income_green">#4CAF50</color>
+
+    <color name="edit_text_background">#FFFFFF</color>
+
+    <color name="edit_text_stroke">#D6D6D6</color>
+
+    <color name="hint_color">#9E9E9E</color>
+
+    <color name="card_shadow">#E0E0E0</color>
+
+    <color name="income_card">#E8F5E9</color>
+
+    <color name="expense_card">#FFEBEE</color>
+
+    <color name="balance_card">#E3F2FD</color>
+
+    <color name="divider">#DDDDDD</color>
+
+    <color name="card_background">#FFFFFF</color>
+
+    <color name="dashboard_background">#F4F6F9</color>
+
+    <color name="light_green">#E8F5E9</color>
+
+    <color name="light_red">#FFEBEE</color>
+
+    <color name="light_blue">#E3F2FD</color>
+
+</resources>
